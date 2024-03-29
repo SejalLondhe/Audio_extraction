@@ -19,4 +19,3 @@ Clear and concise code structure for easy understanding.
 
 MoviePy: [invalid URL removed] for video and audio manipulation.
 zipfile: https://docs.python.org/3/library/zipfile.html for zip archive handling.
-librosa
