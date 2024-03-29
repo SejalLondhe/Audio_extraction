@@ -17,5 +17,5 @@ Optimized for use in Google Colab environment.
 Clear and concise code structure for easy understanding.
 ## Libraries Used
 
-MoviePy: [invalid URL removed] for video and audio manipulation.
+MoviePy:for video and audio manipulation.
 zipfile: https://docs.python.org/3/library/zipfile.html for zip archive handling.
